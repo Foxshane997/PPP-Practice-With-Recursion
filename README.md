@@ -8,3 +8,5 @@
 
 ## Activity (ppp-2-python-function-practice-part-4)
 - https://digitalskills.instructure.com/courses/13320/pages/activity-ppp-2-more-python-function-features?module_item_id=1909888
+
+# You will need to CD in into the respective folder based on which files you are trying to run.
