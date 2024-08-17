@@ -11,4 +11,4 @@ def power_of(a, b):
 
 print(power_of(2,3))
 print(power_of(5,0))
-# 2 Cased where it is being invoked
+# 2 Cases where it is being invoked
